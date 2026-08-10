@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-eud6n7.indocuan-win.sbs/sitemap.xml
